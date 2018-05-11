@@ -1,6 +1,6 @@
-# ahtefe-hybrid
+# Vue-Cordova
 
-> Ahtefe Hybrid
+Creating a mobile app with hybrid technology using Vue and Cordova Boilerplate
 
 ## Build Setup
 
